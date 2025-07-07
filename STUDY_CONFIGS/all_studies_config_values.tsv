@@ -107,7 +107,7 @@ meningioma_rna_publication	study	meningioma_rna_publication_meta_config.json	can
 open_chordoma	study	open_chordoma_case_meta_config.json	cancer_study_identifier	open_chordoma
 os_sd_zxjffmef_2015	study	os_sd_zxjffmef_2015_case_meta_config.json	cancer_study_identifier	os_sd_zxjffmef_2015
 pbta_all	study	pbta_all_case_meta_config.json	cancer_study_identifier	pbta_all
-test_cbtn_subset	study	test_cbtn_subset_case_meta_config.json	cancer_study_identifier	pbta_all
+test_cbtn_subset	study	test_cbtn_subset_case_meta_config.json	cancer_study_identifier	test_cbtn_subset
 tll_sd_aq9kvn5p_2019	study	tll_sd_aq9kvn5p_2019_case_meta_config.json	cancer_study_identifier	tll_sd_aq9kvn5p_2019
 x01_fy16_nbl_maris	study	x01_fy16_nbl_maris_case_meta_config.json	cancer_study_identifier	x01_fy16_nbl_maris
 open_chordoma	study	open_chordoma_case_meta_config.json	description	A collaborative effort by <a href="http://cbtn.org">CBTN</a> and the <a href="https://www.chordomafoundation.org">Chordoma Foundation</a> to make available and accessible genomic data related to Chordoma. For updates, please see here: <a href="https://tinyurl.com/55cxz9am">Release Notes</a>
@@ -150,7 +150,7 @@ aml_sd_pet7q6f2_2018	study	aml_sd_pet7q6f2_2018_case_meta_config.json	short_name
 meningioma_rna_publication	study	meningioma_rna_publication_meta_config.json	short_name	meningioma
 open_chordoma	study	open_chordoma_case_meta_config.json	short_name	open_chordoma
 pbta_all	study	pbta_all_case_meta_config.json	short_name	pbta_all
-test_cbtn_subset	study	test_cbtn_subset_case_meta_config.json	short_name	pbta_all
+test_cbtn_subset	study	test_cbtn_subset_case_meta_config.json	short_name	test_cbtn_subset
 tll_sd_aq9kvn5p_2019	study	tll_sd_aq9kvn5p_2019_case_meta_config.json	short_name	tll_sd_aq9kvn5p_2019
 x01_fy16_nbl_maris	study	x01_fy16_nbl_maris_case_meta_config.json	short_name	x01_fy16_nbl_maris
 aml_sd_pet7q6f2_2018	study	aml_sd_pet7q6f2_2018_case_meta_config.json	type_of_cancer	aml
