@@ -1,7 +1,7 @@
 # PedcBioPortal ETL References
 
 <p align="center">
-  <img src="docs/kids_first_logo.svg" alt="Kids First repository logo" width="660px" />
+  <img src="docs/logo/kids_first_logo.svg" alt="Kids First repository logo" width="660px" />
 </p>
 <p align="center">
   <a href="https://github.com/kids-first/kf-cbioportal-etl-refs/blob/main/LICENSE"><img src="https://img.shields.io/github/license/kids-first/kf-cbioportal-etl-refs.svg?style=for-the-badge"></a>
