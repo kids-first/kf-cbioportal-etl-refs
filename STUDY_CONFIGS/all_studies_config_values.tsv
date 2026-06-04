@@ -20,9 +20,9 @@ static	data_sheets		dtypes.sample	{'_comment': 'see https://docs.cbioportal.org/
 static	database_pulls		_comment	This section is used to numerate relevant database schema and tables needed for clinical data and supporting genomic etl files
 static	database_pulls		genomics_etl.out_file	cbio_file_name_id.txt
 static	database_pulls		patient_file.out_file	data_clinical_patient.txt
-static	database_pulls		patient_head.table	template_patient_header.txt
+static	database_pulls		patient_head.table	template_patient_header.tsv
 static	database_pulls		sample_file.out_file	data_clinical_sample.txt
-static	database_pulls		sample_head.table	template_sample_header.txt
+static	database_pulls		sample_head.table	template_sample_header.tsv
 static	ens_gene_list			REFS/gencode27_gene_list.txt
 static	entrez_tsv			REFS/EntrezGeneId_HugoGeneSymbol_2021-06-01.txt
 static	file_loc_defs		_comment	edit the values based on existing/anticipated source file locations, relative to working directory of the script being run

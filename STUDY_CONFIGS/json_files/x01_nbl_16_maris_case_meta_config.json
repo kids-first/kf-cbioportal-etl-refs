@@ -213,14 +213,14 @@
     "database_pulls": {
         "_comment": "This section is used to numerate relevant database schema and tables needed for clinical data and supporting genomic etl files",
         "sample_head": {
-            "table": "template_sample_header.txt"
+            "table": "template_sample_header.tsv"
         },
         "sample_file": {
             "table": "prod_cbio.x01_fy16_nbl_maris_data_clinical_sample",
             "out_file": "data_clinical_sample.txt"
         },
         "patient_head": {
-            "table": "template_patient_header.txt"
+            "table": "template_patient_header.tsv"
         },
         "patient_file": {
             "table": "prod_cbio.x01_fy16_nbl_maris_data_clinical_patient",

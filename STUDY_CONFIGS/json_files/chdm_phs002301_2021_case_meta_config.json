@@ -161,14 +161,14 @@
             }
         },
         "sample_head": {
-            "table": "template_sample_header.txt"
+            "table": "template_sample_header.tsv"
         },
         "sample_file": {
             "table": "brownm28_dev_schema_cbio.chdm_phs002301_2021_data_clinical_sample",
             "out_file": "data_clinical_sample.txt"
         },
         "patient_head": {
-            "table": "template_patient_header.txt"
+            "table": "template_patient_header.tsv"
         },
         "patient_file": {
             "table": "brownm28_dev_schema_cbio.chdm_phs002301_2021_data_clinical_patient",

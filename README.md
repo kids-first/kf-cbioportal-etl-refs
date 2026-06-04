@@ -21,8 +21,8 @@ Below is a summary of ETL references and how they are used in practice
    - healthy_expressions/healthy_totalRNA_log_TPM.tsv
  - `REFS/Homo_sapiens.GRCh38.105.chr.gtf_genes.bed`: Gene coordinates with Hugo gene symbols used to standardize gene annotation of CNV data
  - `REFS/maf_KF_CONSENSUS_r105.txt`: MAF header file used to standardize MAF output
- - `REFS/template_patient_header.txt` data_clinical_patient.txt template header with all valid fields that can be used for patient view
- - `REFS/template_sample_header.txt`: data_clinical_sample.txt template header with all valid fields that can be used for sample view
+ - `REFS/template_patient_header.tsv` data_clinical_patient.txt template header with all valid fields that can be used for patient view
+ - `REFS/template_sample_header.tsv`: data_clinical_sample.txt template header with all valid fields that can be used for sample view
 
 ### Legacy/Utility/Deprecated
  - `REFS/EntrezGeneId_HugoGeneSymbol_2021-06-01.txt`: Entrez gene ID + Hugo Symbol reference matching current ENSEMBL 105 annotation
